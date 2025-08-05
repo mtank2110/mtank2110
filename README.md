@@ -1,16 +1,31 @@
-## Hi there 👋
+## Hi there 👋 I'm Ankit
 
-<!--
-**mtank2110/mtank2110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate developer focused on building full-stack web applications using the **MERN Stack** (MongoDB, Express.js, React, Node.js). I love turning ideas into scalable and efficient solutions.
 
-Here are some ideas to get you started:
+### 🚀 What I’m Currently Working On
+- MERN Stack projects (personal & collaborative)
+- Creating responsive and user-friendly UIs with React & Tailwind CSS
+- Backend API development with Node.js & Express
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 What I’m Learning
+- ☁️ AWS (EC2, S3, RDS)
+- ☕ Java (OOP, Spring basics)
+- ⚙️ DevOps basics & CI/CD workflows
+
+### 👯 I’m Looking to Collaborate On
+- Open source MERN stack projects
+- Backend-heavy systems or microservices
+- Projects focused on real-world impact
+
+### 💬 Ask Me About
+- MERN stack development
+- REST APIs & authentication
+- Git & GitHub workflows
+
+### 📫 How to Reach Me
+- 📧 Email: goswamiankit2110@gmail.com
+- 💼 LinkedIn: [linkedin.com/in/yourprofile]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/ankit-goswami-1803ab338/))
+
+---
+
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=mtank2110.mtank2110)

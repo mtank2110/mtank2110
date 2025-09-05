@@ -24,8 +24,6 @@ I'm a passionate developer focused on building full-stack web applications using
 
 ### 📫 How to Reach Me
 - 📧 Email: goswamiankit2110@gmail.com
-- 💼 <a href="https://www.linkedin.com/in/ankit-goswami-1803ab338/" target="_blank">LinkedIn</a>
-
 ---
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=mtank2110.mtank2110)
